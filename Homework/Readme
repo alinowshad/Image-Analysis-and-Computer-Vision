@@ -1,0 +1,8 @@
+For running the code in the folder "Code" you should open the "Code.m", and following you can run everything since all the data is already 
+saved in the folder and it automatically loads the need the results for computation.
+
+In the folder "Computed Results" you can also find again the saved data (vanishing points, horizon, ...) everything.
+
+In the folder "Report" is placed a single PDF of the report
+
+In the folder "Resulting Image (Report)" you can find all of the images results used for creating the report
